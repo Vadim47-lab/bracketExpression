@@ -43,11 +43,15 @@ namespace bracketExpression
                         break;
                     }
                 }
+            }
 
-                if (currentDepth == 0)
-                {
-                    Console.WriteLine("\n Скобочное выражение не является корректным! В нем присутствует лишная скобка!");
-                }
+            if (currentDepth == 0)
+            {
+                Console.WriteLine("\n Скобочное выражение является корректным!");
+            }
+            else
+            {
+                Console.WriteLine("\n Скобочное выражение не является корректным! В нем присутствует лишная скобка!");
             }
 
             Console.WriteLine("\n Максимальная глубина вложенности скобок maximumDepth = " + maximumDepth + ".");
