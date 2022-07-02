@@ -1,0 +1,14 @@
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\obj\Debug\netcoreapp3.1\bracketExpression.csproj.AssemblyReference.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\obj\Debug\netcoreapp3.1\bracketExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\obj\Debug\netcoreapp3.1\bracketExpression.AssemblyInfoInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\obj\Debug\netcoreapp3.1\bracketExpression.AssemblyInfo.cs
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\obj\Debug\netcoreapp3.1\bracketExpression.csproj.CoreCompileInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\bin\Debug\netcoreapp3.1\bracketExpression.exe
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\bin\Debug\netcoreapp3.1\bracketExpression.deps.json
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\bin\Debug\netcoreapp3.1\bracketExpression.runtimeconfig.json
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\bin\Debug\netcoreapp3.1\bracketExpression.runtimeconfig.dev.json
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\bin\Debug\netcoreapp3.1\bracketExpression.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\bin\Debug\netcoreapp3.1\bracketExpression.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\obj\Debug\netcoreapp3.1\bracketExpression.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\obj\Debug\netcoreapp3.1\bracketExpression.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\bracketExpression\bracketExpression\obj\Debug\netcoreapp3.1\bracketExpression.genruntimeconfig.cache
