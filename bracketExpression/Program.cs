@@ -12,6 +12,7 @@ namespace bracketExpression
             char closingBracket = ')';
             string expression;
             int maximumDepth = 0;
+            int currentMaximumDepth = 0;
 
             Console.Write(" Введите скобочное выражение |Пример ((()))|: ");
             expression = Console.ReadLine();
@@ -23,14 +24,32 @@ namespace bracketExpression
 
             for (int i = 0; i < expression.Length; i++)
             {
-                if ((expression[i] == openingBracket) && (expression[expression.Length - 1] == closingBracket))
-                {
-                    maximumDepth++;
-                }
-
-                else if ((expression[i] != openingBracket) || (expression[expression.Length - 1] != closingBracket))
+                if ((expression[i] != openingBracket) && (expression[expression.Length - 1] != closingBracket))
                 {
                     Console.WriteLine("\n Скобочное выражение не является корректным! В нем присутствует лишная скобка!");
+                }
+
+                if (expression[i] == '(')
+                {
+                    currentMaximumDepth++;
+
+                    if (currentMaximumDepth > maximumDepth)
+                    {
+                        maximumDepth = currentMaximumDepth;
+                    }
+                }
+
+                else if (expression[i] == ')')
+                {
+                    if (currentMaximumDepth > 0)
+                    {
+                        currentMaximumDepth--;
+                    }
+
+                    else
+                    {
+                        return;
+                    }
                 }
             }
 
